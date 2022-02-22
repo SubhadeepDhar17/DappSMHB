@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x41dA8C409c94BbBbf4384024f5a89b7a72C42442",
+  "SCAN_LINK": "https://polygonscan.com/address/0x41da8c409c94bbbbf4384024f5a89b7a72c42442",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Skullez Mile High Badge",
+  "SYMBOL": "SMHB",
+  "MAX_SUPPLY": 5555,
+  "WEI_COST": 110000000000000000000,
+  "DISPLAY_COST": 110,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/skullezmilehighbadge",
+  "SHOW_BACKGROUND": false
+}
