@@ -10,7 +10,7 @@
   "SYMBOL": "SMHB",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 90000000000000000000,
-  "DISPLAY_COST": 110,
+  "DISPLAY_COST": 90,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/skullezmilehighbadge",
